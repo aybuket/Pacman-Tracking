@@ -1,3 +1,3 @@
 # Ghostbusters
 
-The implementation of the search from Berkeley AI Projects: http://ai.berkeley.edu/tracking.html
+The implementation of the tracking from Berkeley AI Projects: http://ai.berkeley.edu/tracking.html
