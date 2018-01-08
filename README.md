@@ -1,2 +1,3 @@
-# Pacman_Tracking
-Comp341 / Introduction to Artificial Intelligence / Fall 2016
+# Ghostbusters
+
+The implementation of the search from Berkeley AI Projects: http://ai.berkeley.edu/tracking.html
